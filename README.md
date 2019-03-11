@@ -6,3 +6,8 @@ Best practices of programming
 
 
 
+To do 
+* Java Concurrency in Practice 
+* The Garbage Collection Handbook
+
+
