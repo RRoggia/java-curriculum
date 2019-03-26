@@ -10,4 +10,5 @@ To do
 * Java Concurrency in Practice 
 * The Garbage Collection Handbook
 
-
+JDK 8.0
+* [java.util.function](https://github.com/RRoggia/java-util-function)
