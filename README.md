@@ -12,4 +12,5 @@ To do
 
 JDK 8.0
 * [java.util.function](https://github.com/RRoggia/java-util-function)
-* [java-generics](#todo)
+* [java-generics](https://github.com/RRoggia/java-generics)
+* [java-threads](https://github.com/RRoggia/java-threads)
