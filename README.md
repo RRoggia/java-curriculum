@@ -13,6 +13,7 @@ Online Training
 To Review 
 * Java Concurrency in Practice 
 * The Garbage Collection Handbook
+* https://goalkicker.com/JavaBook/
 
 JDK 8.0
 * [java-util-function](https://github.com/RRoggia/java-util-function)
