@@ -14,6 +14,7 @@ To Review
 * Java Concurrency in Practice 
 * The Garbage Collection Handbook
 * https://goalkicker.com/JavaBook/
+* [The Java Tutorial: A Short Course on the Basics (6th Edition) (Java Series)](https://www.amazon.com/Java-Tutorial-Short-Course-Basics/dp/0134034082)
 
 JDK 8.0
 * [java-util-function](https://github.com/RRoggia/java-util-function)
