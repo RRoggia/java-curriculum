@@ -21,3 +21,4 @@ JDK 8.0
 * [java-generics](https://github.com/RRoggia/java-generics)
 * [java-threads](https://github.com/RRoggia/java-threads)
 * [java-annotations](https://github.com/RRoggia/java-annotations)
+* [java-reflect](https://github.com/RRoggia/java-reflect)
